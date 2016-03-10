@@ -1,0 +1,25 @@
+!SESSION 2016-03-09 22:13:39.580 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_74
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-03-09 22:16:05.619
+!MESSAGE cacheFile=file:/home/elcio/Documentos/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-03-09 22:16:13.196
+!MESSAGE Invalid site reference %updateSiteURL in feature com.pramati.eclipse.feature.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-03-09 22:16:13.218
+!MESSAGE Invalid site reference %updateSiteURL in feature com.pramati.eclipse.feature.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-03-09 22:16:13.219
+!MESSAGE Invalid site reference %updateSiteURL in feature com.pramati.eclipse.feature.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-03-09 22:17:19.288
+!MESSAGE cacheFile=file:/home/elcio/Documentos/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-03-09 22:17:24.256
+!MESSAGE cacheFile=file:/home/elcio/Documentos/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
